@@ -1,0 +1,4 @@
+# Region file format: DS9 astropy/regions
+global edit=1 width=1 font=Sans Serif fill=0 color=red
+image
+box(1008.9220832713308,508.45773363836076,9.432128957315967,1872.412041882125,0)
