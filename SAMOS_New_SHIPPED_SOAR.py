@@ -210,8 +210,8 @@ from SAMOS_MOTORS_dev.SAMOS_MOTORS_GUI_dev  import Window as SM_GUI
 """
 Motors = Class_PCM()
 print("line 214 Calling SOAR TCS")
+#SOAR = SoarTCS(host='139.229.15.2',port=40050)
 
-SOAR = SoarTCS(host='139.229.15.2',port=40050)
 """
 from SAMOS_DMD_dev.SAMOS_DMD_GUI_dev import GUI_DMD
 # from SAMOS_DMD_dev.Class_DMD import DigitalMicroMirrorDevice as DMD
